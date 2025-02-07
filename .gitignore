@@ -1,0 +1,7 @@
+.env
+
+Automatic-License-Plate-Recognition-using-YOLOv8/*
+video_dataset/*
+how-to-use-ultralytics-yolo-with-openai-for-number-plate-recognition.ipynb
+anpr-output.avi
+main.py
